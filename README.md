@@ -1,4 +1,3 @@
 # python-homework
-# python-homework
-# python-homework
-# python-homework
+# นาย ธนดล พฤทธิบุญญกุล
+#6812732106
